@@ -9,9 +9,9 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="519.85645mm"
-   height="290.56006mm"
-   viewBox="0 0 519.85645 290.56006"
+   width="431.06992mm"
+   height="285.72916mm"
+   viewBox="0 0 431.06992 285.72916"
    version="1.1"
    id="svg8"
    inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
@@ -130,7 +130,7 @@
    inverse="true"
    flatten="false"
    hide_clip="false"
-   message="Use fill-rule evenodd on &lt;b&gt;fill and stroke&lt;/b&gt; dialog if no flatten result after convert clip to paths." />
+   message=" -2.952951,2.99484 2.9529503,2.9948362 0 0 0 2.952952,2.99483 2.9529503,2.9948362 0 0 0 2.95295,-2.99483" />
 <inkscape:path-effect
    message="Use fill-rule evenodd on &lt;b&gt;fill and stroke&lt;/b&gt; dialog if no flatten result after convert clip to paths."
    hide_clip="false"
@@ -175,7 +175,7 @@
    inverse="true"
    flatten="false"
    hide_clip="false"
-   message="Use fill-rule evenodd on &lt;b&gt;fill and stroke&lt;/b&gt; dialog if no flatten result after convert clip to paths." />
+   message=" -2.952951,2.99484 2.9529503,2.9948362 0 0 0 2.952952,2.99483 2.9529503,2.9948362 0 0 0 2.95295,-2.99483" />
 <inkscape:path-effect
    effect="powerclip"
    id="path-effect9068"
@@ -184,9 +184,9 @@
    inverse="true"
    flatten="false"
    hide_clip="false"
-   message="Use fill-rule evenodd on &lt;b&gt;fill and stroke&lt;/b&gt; dialog if no flatten result after convert clip to paths." />
+   message=" -2.952951,2.99484 2.9529503,2.9948362 0 0 0 2.952952,2.99483 2.9529503,2.9948362 0 0 0 2.95295,-2.99483" />
 <inkscape:path-effect
-   message="Use fill-rule evenodd on &lt;b&gt;fill and stroke&lt;/b&gt; dialog if no flatten result after convert clip to paths."
+   message=" -2.952951,2.99484 2.9529503,2.9948362 0 0 0 2.952952,2.99483 2.9529503,2.9948362 0 0 0 2.95295,-2.99483"
    hide_clip="false"
    flatten="false"
    inverse="true"
@@ -202,7 +202,7 @@
    inverse="true"
    flatten="false"
    hide_clip="false"
-   message="Use fill-rule evenodd on &lt;b&gt;fill and stroke&lt;/b&gt; dialog if no flatten result after convert clip to paths." />
+   message=" -2.952951,2.99484 2.9529503,2.9948362 0 0 0 2.952952,2.99483 2.9529503,2.9948362 0 0 0 2.95295,-2.99483" />
 <inkscape:path-effect
    effect="powerclip"
    id="path-effect9062"
@@ -3489,10 +3489,10 @@
    inkscape:collect="always"
    style="color-interpolation-filters:sRGB"
    id="filter7913"
-   x="-9.846286e-06"
-   width="1.0856217"
-   y="-3.1735401e-06"
-   height="0.88913101">
+   x="-0.15604579"
+   width="1.2355386"
+   y="-0.094245553"
+   height="1.2904211">
   <feGaussianBlur
      inkscape:collect="always"
      stdDeviation="0.00029661165"
@@ -4290,18 +4290,19 @@
 </filter>
 </defs>
   <sodipodi:namedview
+     inkscape:pagecheckerboard="false"
      inkscape:guide-bbox="true"
      id="base"
      pagecolor="#ffffff"
      bordercolor="#666666"
      borderopacity="1.0"
-     inkscape:pageopacity="0.0"
+     inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.24692546"
-     inkscape:cx="1199.4964"
-     inkscape:cy="337.92284"
+     inkscape:cx="1253.5392"
+     inkscape:cy="147.64221"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer32"
+     inkscape:current-layer="svg8"
      inkscape:document-rotation="0"
      showgrid="false"
      inkscape:window-width="1366"
@@ -4309,13 +4310,13 @@
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
-     showguides="false"
+     showguides="true"
      inkscape:snap-intersection-paths="true"
      inkscape:object-paths="true"
      inkscape:snap-smooth-nodes="true"
      inkscape:object-nodes="true"
      inkscape:snap-global="false"
-     fit-margin-top="1"
+     fit-margin-top="-22"
      fit-margin-left="1"
      fit-margin-right="1"
      fit-margin-bottom="1" />
@@ -4334,7 +4335,7 @@
   <g
      style="mix-blend-mode:normal"
      sodipodi:insensitive="true"
-     transform="translate(-19.70854,-0.42429164)"
+     transform="translate(-20.169374,-2.5400344)"
      inkscape:label="Key"
      id="layer38"
      inkscape:groupmode="layer">
@@ -4514,7 +4515,7 @@
      inkscape:groupmode="layer"
      id="layer27"
      inkscape:label="100bp - 1kb"
-     transform="translate(-23.720495,0.29738194)">
+     transform="translate(-24.181329,-1.8183624)">
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;line-height:1.25;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue';letter-spacing:0px;word-spacing:0px;stroke-width:0.265;stroke-miterlimit:3.175;stroke-dasharray:none"
@@ -5088,7 +5089,7 @@
      id="layer26"
      inkscape:label="1kb- 100kb"
      style="display:inline;mix-blend-mode:normal"
-     transform="translate(-23.720495,0.29738194)">
+     transform="translate(-24.181329,-1.8183624)">
     <text
        id="text932-4"
        y="141.33365"
@@ -5239,7 +5240,7 @@
      inkscape:groupmode="layer"
      id="layer1"
      style="display:inline;opacity:1"
-     transform="translate(-23.720495,0.29738194)">
+     transform="translate(-24.181329,-1.8183624)">
     <g
        sodipodi:insensitive="true"
        inkscape:groupmode="layer"
@@ -5357,8 +5358,8 @@
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue';stroke-width:0.265;stroke-miterlimit:3.175;stroke-dasharray:none">100kb - 1Mb</tspan></text>
   </g>
   <g
-     transform="translate(-19.70854,-0.42429164)"
      sodipodi:insensitive="true"
+     transform="translate(-20.169374,-2.5400344)"
      style="display:inline"
      inkscape:label="&gt;1Mb"
      id="layer34"
@@ -5956,8 +5957,8 @@
     </g>
   </g>
   <g
-     transform="translate(-19.70854,-0.42429164)"
      sodipodi:insensitive="true"
+     transform="translate(-20.169374,-2.5400344)"
      style="display:inline"
      inkscape:label="Sequencing Methods"
      id="layer33"
@@ -8076,6 +8077,7 @@
       </g>
     </g>
     <g
+       sodipodi:insensitive="true"
        inkscape:groupmode="layer"
        id="layer29"
        inkscape:label="Hi-C"
@@ -9936,7 +9938,8 @@
     </g>
   </g>
   <g
-     transform="translate(-19.70854,-0.42429164)"
+     sodipodi:insensitive="true"
+     transform="translate(-20.169374,-2.5400344)"
      inkscape:label="Imaging Methods"
      id="layer35"
      inkscape:groupmode="layer">
@@ -9953,7 +9956,7 @@
          sodipodi:nodetypes="cccccc" />
       <path
          style="display:inline;fill:none;stroke:#000000;stroke-width:0.85;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         d="m 393.44677,267.54324 17.22185,0"
+         d="m 393.44677,267.54324 h 17.22185"
          id="path1640-3"
          sodipodi:nodetypes="cc" />
       <text
@@ -10065,12 +10068,6 @@
            y="162.58453"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue';text-align:center;text-anchor:middle;stroke-width:0.264583"
            id="tspan8277">protein methods</tspan></text>
-      <path
-         sodipodi:nodetypes="cc"
-         style="display:inline;fill:none;stroke:#000000;stroke-width:3.2126;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter7913-8-7)"
-         d="M 76.946488,384.64901 H 119.12779"
-         id="path3041-2-9-5-0"
-         transform="matrix(0.26458333,0,0,0.26458333,511.05612,-26.831419)" />
     </g>
     <g
        inkscape:groupmode="layer"
@@ -10080,12 +10077,12 @@
        style="filter:url(#filter7913)">
       <path
          sodipodi:nodetypes="cccccc"
-         d="m 379.53782,0.70332132 h 6.18171 m 0,0 V 222.30487 m 0,-24.93698 h -6.18171"
+         d="m 379.53782,5.5251206 h 6.18171 m 0,0 V 222.30487 m 0,-24.93698 h -6.18171"
          style="display:inline;fill:none;stroke:#000000;stroke-width:0.85;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;paint-order:markers fill stroke;stop-color:#000000"
          id="rect2000-4" />
       <path
          id="path3041-2"
-         d="m 385.71954,32.967255 21.01021,0"
+         d="m 385.71954,32.967255 h 21.01021"
          style="display:inline;fill:none;stroke:#000000;stroke-width:0.85;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          sodipodi:nodetypes="cc" />
       <g
@@ -10200,7 +10197,7 @@
       <path
          sodipodi:nodetypes="cc"
          id="path3253-0-9"
-         d="m 389.51096,111.78791 14.19116,0"
+         d="m 389.51096,111.78791 h 14.19116"
          style="display:inline;fill:none;stroke:#000000;stroke-width:0.85;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
       <g
          transform="translate(7.1522638,30.908592)"
