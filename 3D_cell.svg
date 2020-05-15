@@ -9,7 +9,7 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   sodipodi:docname="sequencing_imaging_figure.svg"
+   sodipodi:docname="3D_cell.svg"
    inkscape:version="1.0 (4035a4f, 2020-05-01)"
    id="svg8"
    version="1.1"
@@ -4908,9 +4908,9 @@
      inkscape:document-rotation="0"
      inkscape:current-layer="g4884"
      inkscape:document-units="mm"
-     inkscape:cy="145.78212"
-     inkscape:cx="906.06439"
-     inkscape:zoom="1.2881697"
+     inkscape:cy="163.56147"
+     inkscape:cx="911.19106"
+     inkscape:zoom="1.5014082"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0"
      borderopacity="1.0"
@@ -4927,7 +4927,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
