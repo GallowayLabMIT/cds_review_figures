@@ -10,8 +10,8 @@
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="426.99805mm"
-   height="265.24786mm"
-   viewBox="0 0 426.99805 265.24787"
+   height="288.24786mm"
+   viewBox="0 0 426.99805 288.24787"
    version="1.1"
    id="svg8"
    inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
@@ -5075,9 +5075,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.64408485"
-     inkscape:cx="1126.4622"
-     inkscape:cy="629.97003"
+     inkscape:zoom="0.32204243"
+     inkscape:cx="720.77547"
+     inkscape:cy="230.21931"
      inkscape:document-units="mm"
      inkscape:current-layer="layer27"
      inkscape:document-rotation="0"
@@ -5093,7 +5093,7 @@
      inkscape:snap-smooth-nodes="true"
      inkscape:object-nodes="true"
      inkscape:snap-global="false"
-     fit-margin-top="-22"
+     fit-margin-top="1"
      fit-margin-left="1"
      fit-margin-right="1"
      fit-margin-bottom="1" />
@@ -5111,7 +5111,7 @@
   </metadata>
   <g
      style="display:inline;mix-blend-mode:normal"
-     transform="translate(-20.169374,-27.821794)"
+     transform="translate(-20.169374,-4.8217942)"
      inkscape:label="Key"
      id="layer38"
      inkscape:groupmode="layer"
@@ -5291,7 +5291,7 @@
      inkscape:groupmode="layer"
      id="layer27"
      inkscape:label="100bp - 1kb"
-     transform="translate(-24.181329,-27.100122)">
+     transform="translate(-24.181329,-4.1001222)">
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;line-height:1.25;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue';letter-spacing:0px;word-spacing:0px;stroke-width:0.265;stroke-miterlimit:3.175;stroke-dasharray:none"
@@ -5794,7 +5794,7 @@
      id="layer26"
      inkscape:label="1kb- 100kb"
      style="display:inline;mix-blend-mode:normal"
-     transform="translate(-24.181329,-27.100122)"
+     transform="translate(-24.181329,-4.1001222)"
      sodipodi:insensitive="true">
     <text
        id="text932-4"
@@ -5945,7 +5945,7 @@
      inkscape:groupmode="layer"
      id="layer1"
      style="display:inline;opacity:1"
-     transform="translate(-24.181329,-27.100122)"
+     transform="translate(-24.181329,-4.1001222)"
      sodipodi:insensitive="true">
     <g
        inkscape:groupmode="layer"
@@ -6039,7 +6039,7 @@
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue';stroke-width:0.265;stroke-miterlimit:3.175;stroke-dasharray:none">100kb - 1Mb</tspan></text>
   </g>
   <g
-     transform="translate(-20.169374,-27.821794)"
+     transform="translate(-20.169374,-4.8217942)"
      style="display:inline"
      inkscape:label="&gt;1Mb"
      id="layer34"
@@ -6474,7 +6474,7 @@
          sodipodi:role="line">1Mb</tspan></text>
   </g>
   <g
-     transform="translate(-20.169374,-27.821794)"
+     transform="translate(-20.169374,-4.8217942)"
      style="display:inline"
      inkscape:label="Sequencing Methods"
      id="layer33"
@@ -10455,7 +10455,7 @@
   </g>
   <g
      style="display:inline"
-     transform="translate(-20.169374,-27.821794)"
+     transform="translate(-20.169374,-4.8217942)"
      inkscape:label="Imaging Methods"
      id="layer35"
      inkscape:groupmode="layer"
@@ -10821,7 +10821,7 @@
   </g>
   <g
      style="display:inline"
-     transform="translate(-20.169374,-27.821794)"
+     transform="translate(-20.169374,-4.8217942)"
      inkscape:label="&gt;1Mb 3D Cell option 1"
      id="layer4"
      inkscape:groupmode="layer"
@@ -11260,7 +11260,7 @@
      inkscape:groupmode="layer"
      id="g4886"
      inkscape:label="&gt;1Mb 3D Cell option 2"
-     transform="translate(-20.169374,-27.821794)"
+     transform="translate(-20.169374,-4.8217942)"
      style="display:inline">
     <g
        inkscape:groupmode="layer"
