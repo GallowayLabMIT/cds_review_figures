@@ -1816,7 +1816,7 @@
    inverse="true"
    flatten="false"
    hide_clip="false"
-   message="ð£Ë " />
+   message="" />
 <inkscape:path-effect
    effect="skeletal"
    id="path-effect31886"
@@ -1841,7 +1841,7 @@
    inverse="true"
    flatten="false"
    hide_clip="false"
-   message="°¥Ë " />
+   message="" />
 <inkscape:path-effect
    effect="skeletal"
    id="path-effect31882"
@@ -1882,7 +1882,7 @@
    inverse="true"
    flatten="false"
    hide_clip="false"
-   message=" ¦Ë " />
+   message="" />
 <inkscape:path-effect
    effect="skeletal"
    id="path-effect31779"
@@ -1907,7 +1907,7 @@
    inverse="true"
    flatten="false"
    hide_clip="false"
-   message="¦Ë " />
+   message="" />
 <inkscape:path-effect
    effect="skeletal"
    id="path-effect31775"
@@ -1973,7 +1973,7 @@
    inverse="true"
    flatten="false"
    hide_clip="false"
-   message="p§Ë " />
+   message="p" />
 <inkscape:path-effect
    effect="skeletal"
    id="path-effect31668"
@@ -2014,7 +2014,7 @@
    inverse="true"
    flatten="false"
    hide_clip="false"
-   message="à§Ë " />
+   message="" />
 <inkscape:path-effect
    effect="skeletal"
    id="path-effect31565"
@@ -2039,7 +2039,7 @@
    inverse="true"
    flatten="false"
    hide_clip="false"
-   message="P¨Ë " />
+   message="P" />
 <inkscape:path-effect
    effect="skeletal"
    id="path-effect31561"
@@ -2080,7 +2080,7 @@
    inverse="true"
    flatten="false"
    hide_clip="false"
-   message="À¨Ë " />
+   message="" />
 <inkscape:path-effect
    effect="skeletal"
    id="path-effect31458"
@@ -2105,7 +2105,7 @@
    inverse="true"
    flatten="false"
    hide_clip="false"
-   message="0©Ë " />
+   message="0" />
 <inkscape:path-effect
    effect="skeletal"
    id="path-effect31454"
@@ -2146,7 +2146,7 @@
    inverse="true"
    flatten="false"
    hide_clip="false"
-   message=" ©Ë " />
+   message="" />
 <inkscape:path-effect
    effect="skeletal"
    id="path-effect31351"
@@ -2166,17 +2166,6 @@
 <inkscape:path-effect
    id="path-effect955"
    message="" />
-
-
-ªË
-
-       hide_clip=false
-       flatten=false
-       inverse=true
-       lpeversion=1
-       is_visible=true
-       id=path-effect31349
-       effect=powerclip /
     <inkscape:path-effect
    effect="skeletal"
    id="path-effect31347"
