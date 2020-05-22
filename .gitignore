@@ -1,2 +1,4 @@
 # Ignore visual metadata
 .DS_Store
+# Ignore generated PDF files
+*.pdf
