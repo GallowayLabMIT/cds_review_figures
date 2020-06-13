@@ -1045,7 +1045,7 @@
    inverse="true"
    flatten="false"
    hide_clip="false"
-   message="€é8" />
+   message="8" />
 <marker
    inkscape:isstock="true"
    style="overflow:visible"
@@ -1903,7 +1903,7 @@
    inverse="true"
    flatten="false"
    hide_clip="false"
-   message="0‚8" />
+   message="" />
 <inkscape:path-effect
    message=""
    hide_clip="false"
@@ -1966,7 +1966,7 @@
    inverse="true"
    flatten="false"
    hide_clip="false"
-   message="€Cl" />
+   message="" />
 <inkscape:path-effect
    effect="simplify"
    id="path-effect2897"
@@ -2043,7 +2043,7 @@
    hide_clip="false"
    message="" />
 <inkscape:path-effect
-   message="&lt;Ž8"
+   message=""
    hide_clip="false"
    flatten="false"
    inverse="true"
@@ -2077,7 +2077,7 @@
    inverse="true"
    flatten="false"
    hide_clip="false"
-   message=":Ž8" />
+   message="" />
 <inkscape:path-effect
    effect="powerclip"
    id="path-effect9076"
@@ -3223,7 +3223,7 @@
    inverse="true"
    flatten="false"
    hide_clip="false"
-   message="ÀAl" />
+   message="" />
 <inkscape:path-effect
    message="m 152.58646,148.25044 a 2.174458,2.1438721 15.428058 0 1 -1.53282,-2.64115 2.174458,2.1438721 15.428058 0 1 2.66238,-1.49514 2.174458,2.1438721 15.428058 0 1 1.53282,2.64113 2.174458,2.1438721 15.428058 0 1 -2.66238,1.49516 m 2.64583,-0.96857 a 2.174458,2.1438721 15.428058 0 1 -1.53283,-2.64113 2.174458,2.1438721 15.428058 0 1 2.66239,-1.49515 2.174458,2.1438721 15.428058 0 1 1.53282,2.64114 2.174458,2.1438721 15.428058 0 1 -2.66238,1.49514 m 4.69829,14.3796 a 2.174458,2.1438721 15.428058 0 1 -1.53282,-2.64115 2.174458,2.1438721 15.428058 0 1 2.66238,-1.49514 2.174458,2.1438721 15.428058 0 1 1.53282,2.64113 2.174458,2.1438721 15.428058 0 1 -2.66238,1.49516"
    hide_clip="false"
@@ -5472,7 +5472,7 @@
    inverse="true"
    flatten="false"
    hide_clip="false"
-   message="P;Ž8" />
+   message="" />
 <clipPath
    clipPathUnits="userSpaceOnUse"
    id="clipPath1789">
@@ -5580,7 +5580,7 @@
    inverse="true"
    flatten="false"
    hide_clip="false"
-   message="`;Ž8" />
+   message="" />
 <clipPath
    clipPathUnits="userSpaceOnUse"
    id="clipPath1599">
@@ -6824,7 +6824,7 @@
    inverse="true"
    flatten="false"
    hide_clip="false"
-   message="0¬ü*" />
+   message="" />
 <clipPath
    id="clipath_lpe_path-effect23082"
    clipPathUnits="userSpaceOnUse">
