@@ -6986,11 +6986,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.84905578"
-     inkscape:cx="445.38083"
-     inkscape:cy="882.64628"
+     inkscape:zoom="1.6981116"
+     inkscape:cx="362.59056"
+     inkscape:cy="726.02979"
      inkscape:document-units="mm"
-     inkscape:current-layer="g1642"
+     inkscape:current-layer="layer11"
      inkscape:document-rotation="0"
      showgrid="false"
      inkscape:window-width="1366"
@@ -8128,17 +8128,17 @@
         <text
            id="text4726"
            y="195.6873"
-           x="81.088371"
+           x="90.622658"
            style="font-style:normal;font-weight:normal;font-size:2.82222px;line-height:1.05;font-family:sans-serif;text-align:center;text-anchor:middle;display:inline;opacity:1;mix-blend-mode:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.191212"
            xml:space="preserve"><tspan
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue';text-align:center;text-anchor:middle;stroke-width:0.191212"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue';text-align:end;text-anchor:end;stroke-width:0.191212"
              y="195.6873"
-             x="81.088371"
+             x="90.622658"
              id="tspan4724"
              sodipodi:role="line">Active Transcription</tspan><tspan
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue';text-align:center;text-anchor:middle;stroke-width:0.191212"
-             y="198.73483"
-             x="81.479736"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue';text-align:end;text-anchor:end;stroke-width:0.191212"
+             y="198.81264"
+             x="91.40538"
              sodipodi:role="line"
              id="tspan15361">(GRO-Seq) </tspan></text>
         <g
@@ -11545,18 +11545,18 @@
         <text
            xml:space="preserve"
            style="font-style:normal;font-weight:normal;font-size:2.82222px;line-height:1.05;font-family:sans-serif;text-align:center;text-anchor:middle;display:inline;opacity:1;mix-blend-mode:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.191212"
-           x="85.669151"
+           x="90.699478"
            y="189.2375"
            id="text1748"><tspan
              sodipodi:role="line"
              id="tspan1746"
-             x="85.669151"
+             x="90.699478"
              y="189.2375"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue';text-align:center;text-anchor:middle;stroke-width:0.191212">CTCF</tspan><tspan
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue';text-align:end;text-anchor:end;stroke-width:0.191212">CTCF</tspan><tspan
              sodipodi:role="line"
-             x="85.669151"
-             y="192.28503"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue';text-align:center;text-anchor:middle;stroke-width:0.191212"
+             x="90.699478"
+             y="192.36284"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue';text-align:end;text-anchor:end;stroke-width:0.191212"
              id="tspan15359">(ChIP-seq)</tspan></text>
         <g
            style="display:inline;opacity:1"
@@ -11769,12 +11769,12 @@
         <text
            xml:space="preserve"
            style="font-style:normal;font-weight:normal;font-size:2.82222px;line-height:1.05;font-family:sans-serif;display:inline;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.191212"
-           x="79.48349"
+           x="75.670975"
            y="185.34703"
            id="text5545"><tspan
              sodipodi:role="line"
              id="tspan5543"
-             x="79.48349"
+             x="75.670975"
              y="185.34703"
              style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue';stroke-width:0.191212">Eigenvector</tspan></text>
         <rect
