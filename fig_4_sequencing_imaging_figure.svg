@@ -2436,7 +2436,7 @@
    inverse="true"
    flatten="false"
    hide_clip="false"
-   message="€Gm " />
+   message="" />
 <inkscape:path-effect
    effect="powerclip"
    id="path-effect3056"
